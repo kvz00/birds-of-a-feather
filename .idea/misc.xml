@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/austi/AndroidStudioProjects/BirdsofaFeather/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/austi/AndroidStudioProjects/BirdsofaFeather/app/src/main/res/layout/activity_blue_tooth.xml" value="0.39166666666666666" />
+        <entry key="..\:/Users/austi/AndroidStudioProjects/BirdsofaFeather/app/src/main/res/layout/activity_course_entry.xml" value="0.39166666666666666" />
+        <entry key="..\:/Users/austi/AndroidStudioProjects/BirdsofaFeather/app/src/main/res/layout/activity_google_login.xml" value="0.1921875" />
+        <entry key="..\:/Users/austi/AndroidStudioProjects/BirdsofaFeather/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/austi/AndroidStudioProjects/BirdsofaFeather/app/src/main/res/layout/activity_main_app.xml" value="0.4041666666666667" />
+        <entry key="..\:/Users/austi/AndroidStudioProjects/BirdsofaFeather/app/src/main/res/layout/activity_student_detail.xml" value="0.1921875" />
+        <entry key="..\:/Users/austi/AndroidStudioProjects/BirdsofaFeather/app/src/main/res/layout/course_row.xml" value="0.1921875" />
+        <entry key="..\:/Users/austi/AndroidStudioProjects/BirdsofaFeather/app/src/main/res/layout/foo_fragment.xml" value="0.20018115942028986" />
+        <entry key="..\:/Users/austi/AndroidStudioProjects/BirdsofaFeather/app/src/main/res/layout/fragment_foo.xml" value="0.14010416666666667" />
+        <entry key="..\:/Users/austi/AndroidStudioProjects/BirdsofaFeather/app/src/main/res/layout/student_detail_row.xml" value="0.1921875" />
+        <entry key="..\:/Users/austi/AndroidStudioProjects/BirdsofaFeather/app/src/main/res/layout/student_row.xml" value="0.1921875" />
+        <entry key="..\:/Users/austi/AndroidStudioProjects/BirdsofaFeather/app/src/main/res/layout/toggle_search_process.xml" value="0.25" />
+        <entry key="..\:/Users/micha/AndroidStudioProjects/birds-of-a-feather-team-36/app/src/main/res/layout/activity_main.xml" value="0.3605072463768116" />
+        <entry key="..\:/Users/micha/AndroidStudioProjects/birds-of-a-feather-team-36/app/src/main/res/layout/activity_student_detail.xml" value="0.3605072463768116" />
+        <entry key="..\:/Users/micha/AndroidStudioProjects/birds-of-a-feather-team-36/app/src/main/res/layout/student_detail_row.xml" value="0.3605072463768116" />
+        <entry key="..\:/Users/micha/AndroidStudioProjects/birds-of-a-feather-team-36/app/src/main/res/layout/student_row.xml" value="0.3605072463768116" />
+        <entry key="..\:/Users/vbian/AndroidStudioProjects/birds-of-a-feather-team-36/app/src/main/res/layout/activity_courseSessions.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/vbian/AndroidStudioProjects/birds-of-a-feather-team-36/app/src/main/res/layout/activity_main.xml" value="0.1480978260869565" />
+        <entry key="..\:/Users/vbian/AndroidStudioProjects/birds-of-a-feather-team-36/app/src/main/res/layout/activity_main_app.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/vbian/AndroidStudioProjects/birds-of-a-feather-team-36/app/src/main/res/layout/activity_sessions.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/vbian/AndroidStudioProjects/birds-of-a-feather-team-36/app/src/main/res/layout/activity_student_detail.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/vbian/AndroidStudioProjects/birds-of-a-feather-team-36/app/src/main/res/layout/course_row.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/vbian/AndroidStudioProjects/birds-of-a-feather-team-36/app/src/main/res/layout/popup_session.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/vbian/AndroidStudioProjects/birds-of-a-feather-team-36/app/src/main/res/layout/session_row.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/vbian/AndroidStudioProjects/birds-of-a-feather-team-36/app/src/main/res/layout/student_detail_row.xml" value="0.5" />
+        <entry key="..\:/Users/vbian/AndroidStudioProjects/birds-of-a-feather-team-36/app/src/main/res/layout/student_row.xml" value="0.24230072463768115" />
+        <entry key="app/src/main/res/layout/activity_course_entry.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_google_login.xml" value="0.10416666666666667" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.125" />
+        <entry key="app/src/main/res/layout/activity_main_app.xml" value="0.10416666666666667" />
+        <entry key="app/src/main/res/layout/activity_student_detail.xml" value="0.10416666666666667" />
+        <entry key="app/src/main/res/layout/course_row.xml" value="0.10416666666666667" />
+        <entry key="app/src/main/res/layout/toggle_search_process.xml" value="0.125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
